@@ -6,11 +6,11 @@ I'm Mattia, a 26 years old computer engineering student from Italy.
 - 🌱 I’m currently learning more and more about Solidity and Blockchain developing!
 
 ## My Skills
-- 👨‍💻 Python, C, Java, Scala, Pine Script, Solidity, JavaScript
-- ⚙️ Brownie
-- 👁️ HTML, CSS
+- 👨‍💻 Python, C, Java, Scala, Pine Script, Solidity, JavaScript, TypeScript
+- ⚙️ Brownie, Hardhat, React, Next.js
+- 👁️ HTML, CSS, Bootstrap
 - 💽 MySQL, SQL
-  + Many more! :D
+  + And more! :D
 
 ## Contact
 - [Mattia Verdecchi](https://www.linkedin.com/in/mattia-verdecchi-75b785204/)
