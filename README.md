@@ -1,6 +1,6 @@
 
 ## Hi there! 👋
-I'm Mattia, a 26 years old computer engineering student from Italy.
+I'm Mattia, a 27 years old computer engineering student from Italy.
 
 - 👨‍💻 Worked on [Fiverr](https://it.fiverr.com/algorithm_matt) as Freelancer from oct 2022 since jan 2023 as a Trading Bot developer.
 - 🌱 I’m currently improving my skills in Solidity, Typescript and React!
