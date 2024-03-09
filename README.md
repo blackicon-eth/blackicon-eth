@@ -7,8 +7,8 @@ I'm Mattia, a 27 years old computer engineering student from Italy.
 
 ## My Skills
 - 👨‍💻 Python, C, Java, Scala, Pine Script, Solidity, JavaScript, TypeScript
-- ⚙️ Brownie, Hardhat, React, Next.js
-- 👁️ HTML, CSS, Bootstrap
+- ⚙️ Brownie, Hardhat, React, Node.js, Next.js
+- 👁️ HTML, CSS, Bootstrap, Tailwind
 - 💽 MySQL, SQL
   + And more! :D
 
