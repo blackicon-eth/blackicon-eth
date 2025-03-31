@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Mattia, a 27 years old computer engineering student from Italy.
+I'm Mattia, a 28 years old computer engineering student from Italy.
 - 🌱 I’m currently improving my skills in Solidity, Typescript and React!
 
 ## Working experience
