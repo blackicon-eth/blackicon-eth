@@ -1,9 +1,11 @@
 ## Hi there! 👋
-I'm Mattia, a 28 years old computer engineering student from Italy.
-- 🌱 I’m currently improving my skills in Solidity, Typescript and React!
+I'm blackicon.eth (Mattia), a 28 years old Fullstack Developer from Italy.
+- Serial Web3 Hacker 🧑‍💻
+- Builders Garden Co-founder 🌳
+- Urbe.eth community associate 🐺❤️
 
 ## Working experience
-- [07/24 - Today] Working as a Freelance Fullstack Developer at [Builders Garden](https://builders.garden/)
+- [07/24 - Today] Working as a Fullstack Developer at [Builders Garden](https://builders.garden/)
 - [12/23 - 06/24] Worked as a Junior Software Engineer at [Start&Go Innovative Solutions](https://www.startegois.com/en).
 - [10/22 - 01/23] Worked on [Fiverr](https://it.fiverr.com/algorithm_matt) as a Freelance Trading Bot developer.
 
