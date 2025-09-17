@@ -14,7 +14,7 @@ I'm blackicon.eth (Mattia), a 28 years old Fullstack Developer from Italy.
 - 👨‍💻 Python, C, Java, Scala, Pine Script, Solidity, JavaScript, TypeScript
 - ⚙️ Brownie, Hardhat, React, Node.js, Next.js
 - 👁️ HTML, CSS, Bootstrap, Tailwind
-- 💽 MySQL, SQL
+- 💽 SQL, Database Management
   + And more! :D
 
 ## Contacts
