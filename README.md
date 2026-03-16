@@ -4,10 +4,10 @@ I'm **blackicon.eth (Mattia)**, a Fullstack Developer from Italy 🇮🇹
 Passionate about **Web3, blockchain infrastructure, and emerging technologies**.
 
 - Serial Web3 Hacker 🧑‍💻
-- **Builders Garden** Co-founder 🌳
+- Builders Garden Co-founder 🌳
 - Urbe.eth community associate 🐺❤️
 
-I enjoy building **apps, experimenting with new technologies, and collaborating with other people.
+I enjoy building apps, experimenting with new technologies, and collaborating with other people.
 
 ---
 
