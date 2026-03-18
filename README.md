@@ -1,33 +1,33 @@
 ## Hi there! 👋
 
 I'm **blackicon.eth (Mattia)**, a Fullstack Developer from Italy 🇮🇹  
-Passionate about **Web3, blockchain infrastructure, and emerging technologies**.
+Passionate about **blockchain, decentralization and emerging technologies**.
 
 - Serial Web3 Hacker 🧑‍💻
 - Builders Garden Co-founder 🌳
 - Urbe.eth community associate 🐺❤️
 
-I enjoy building apps, experimenting with new technologies, and collaborating with other people.
+I enjoy building apps, collaborating with people and experimenting with new tech and AI.
 
 ---
 
 ## Working experience
 
 - **[05/24 - Today]** Fullstack Developer at [Builders Garden](https://builders.garden/)  
-  Building blockchain applications and dApps using **Next.js, TypeScript and Web3 integrations**.
+Building dApps using **Next.js, TypeScript and Web3 libraries**.
 
 - **[12/23 - 05/24]** Junior Software Engineer at [Start&Go Innovative Solutions](https://www.startegois.com/en)  
-  Worked on the development of a **custom CRM platform** for an Italian insurance intermediary.
+Worked on the development of a **custom CRM platform** for an Italian intermediary business.
 
 - **[10/21 - 01/23]** Freelance Trading Bot Developer on [Fiverr](https://it.fiverr.com/algorithm_matt)  
-  Built **trading bots, indicators, and automation tools** using Pine Script.
+Built **trading bots, indicators, and automation tools** using Pine Script.
 
 ---
 
 ## My Skills
 
 - 👨‍💻 **Languages**  
-  Python, C, Java, Scala, Pine Script, Solidity, JavaScript, TypeScript
+  Python, C, Java, Scala, Assembly, Pine Script, Solidity, JavaScript, TypeScript
 
 - ⚙️ **Frameworks & Tools**  
   Brownie, Hardhat, React, Node.js, Next.js
@@ -39,7 +39,7 @@ I enjoy building apps, experimenting with new technologies, and collaborating wi
   SQL, Database Management
 
 - 🛠 **Other Tools**  
-  Git, Docker, Linux/Bash, Web3 Wallet integrations
+  Git, Docker, Linux/Bash, Web3 integrations
 
 + And more! :D
 
