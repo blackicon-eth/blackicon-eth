@@ -8,8 +8,6 @@ Passionate about **blockchain, decentralization and emerging technologies**.
 - Urbe.eth community associate 🐺❤️
 
 I enjoy building apps, collaborating with people and experimenting with new tech and AI.
-\n\n
-
 
 ## Working experience
 
