@@ -9,8 +9,6 @@ Passionate about **blockchain, decentralization and emerging technologies**.
 
 I enjoy building apps, collaborating with people and experimenting with new tech and AI.
 
----
-
 ## Working experience
 
 - **[05/24 - Today]** Fullstack Developer at [Builders Garden](https://builders.garden/)  
@@ -21,8 +19,6 @@ Worked on the development of a **custom CRM platform** for an Italian intermedia
 
 - **[10/21 - 01/23]** Freelance Trading Bot Developer on [Fiverr](https://it.fiverr.com/algorithm_matt)  
 Built **trading bots, indicators, and automation tools** using Pine Script.
-
----
 
 ## My Skills
 
@@ -42,8 +38,6 @@ Built **trading bots, indicators, and automation tools** using Pine Script.
   Git, Docker, Linux/Bash, Web3 integrations
 
 + And more! :D
-
----
 
 ## Contacts
 
