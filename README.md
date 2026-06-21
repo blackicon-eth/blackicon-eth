@@ -9,6 +9,7 @@ Passionate about **blockchain, decentralization and emerging technologies**.
 
 I enjoy building apps, collaborating with people and experimenting with new tech and AI.
 
+
 ## Working experience
 
 - **[05/24 - Today]** Fullstack Developer at [Builders Garden](https://builders.garden/)  
@@ -20,24 +21,26 @@ Worked on the development of a **custom CRM platform** for an Italian intermedia
 - **[10/21 - 01/23]** Freelance Trading Bot Developer on [Fiverr](https://it.fiverr.com/algorithm_matt)  
 Built **trading bots, indicators, and automation tools** using Pine Script.
 
+
 ## My Skills
 
 - 👨‍💻 **Languages**  
   Python, C, Java, Scala, Assembly, Pine Script, Solidity, JavaScript, TypeScript
 
 - ⚙️ **Frameworks & Tools**  
-  Brownie, Hardhat, React, Node.js, Next.js
+  Brownie, Hardhat, React, Node.js, Next.js, Vite.js
 
 - 🎨 **Frontend**  
-  HTML, CSS, Bootstrap, Tailwind
+  HTML, CSS, Bootstrap, Tailwind, Shadcn & other libraries
 
 - 💽 **Databases**  
-  SQL, Database Management
+  SQL, Supabase, Firebase, Drizzle and other ORMs, General DB Management
 
-- 🛠 **Other Tools**  
+- ➕ **Other Tools**  
   Git, Docker, Linux/Bash, Web3 integrations
 
 + And more! :D
+
 
 ## Contacts
 
